@@ -1,0 +1,129 @@
+/*---------------------
+  Header
+-----------------------*/
+
+.header {
+    background: #ffffff;
+}
+
+.header__top {
+    background: #f31221;
+    padding: 10px 0;
+}
+
+.header__top__links a {
+    color: #ffffff;
+    font-size: 13px;
+    text-transform: uppercase;
+    margin-right: 28px;
+}
+
+.header__menu ul li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 45px;
+}
+
+.header__menu ul li a {
+    font-size: 18px;
+    color: #111111;
+    font-weight: 600;
+}
+
+.header__nav__option a {
+    display: inline-block;
+    margin-right: 26px;
+    position: relative;
+}
+
+/*---------------------
+  Hero Section
+-----------------------*/
+
+.hero__items {
+    height: 800px;
+    padding-top: 230px;
+}
+
+.hero__text h6 {
+    color: #e53637;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 28px;
+}
+
+.hero__text h2 {
+    color: #111111;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+/*---------------------
+  Banner Section
+-----------------------*/
+
+.banner__item {
+    position: relative;
+    overflow: hidden;
+}
+
+.banner__item__text h2 {
+    color: #111111;
+    font-weight: 700;
+    line-height: 46px;
+    margin-bottom: 10px;
+}
+
+.banner__item__text a {
+    color: #111111;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+/*---------------------
+  Product Section
+-----------------------*/
+
+.product__item {
+    overflow: hidden;
+}
+
+.product__item__pic {
+    height: 260px;
+    position: relative;
+    background-position: center center;
+}
+
+.product__item__text h6 {
+    color: #111111;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.product__item__text h5 {
+    color: #0d0d0d;
+    font-weight: 700;
+}
+
+/*---------------------
+  Categories Section
+-----------------------*/
+
+.categories {
+    background: #f3f2ee;
+    padding-top: 150px;
+    padding-bottom: 125px;
+}
+
+.categories__text h2 {
+    color: #b7b7b7;
+    line-height: 72px;
+    font-size: 34px;
+}
+
+.categories__deal__countdown h2 {
+    color: #111111;
+    font-weight: 700;
+    margin-bottom: 25px;
+}

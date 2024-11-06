@@ -1,0 +1,6 @@
+.set-bg {
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    /* hoặc chiều cao cụ thể */
+}
